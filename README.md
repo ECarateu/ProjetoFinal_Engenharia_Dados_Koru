@@ -144,7 +144,8 @@ P-valor do teste T para gênero e salário: 0.209...
 Resultado: Não podemos rejeitar a Hipótese Nula.
 Conclusão Estatística: Apesar de a análise descritiva mostrar uma diferença nos salários médios, o p-valor (0.21) é maior que nosso nível de significância (0.05). Isso significa que a diferença observada nos salários entre homens e mulheres nesta amostra de dados não é estatisticamente significativa. Em outras palavras, com estes dados, não temos evidências fortes o suficiente para afirmar que existe uma diferença salarial real entre os gêneros na população de onde a amostra foi retirada; a diferença que vemos pode ser devida ao acaso.
 
-
+### Visualização do Dado Looker Studio 
+[Visualizar Aqui](https://lookerstudio.google.com/reporting/882a22bd-2543-4119-82e4-34097e77e421)
 
 ### 🎓 Sobre nós!
 
