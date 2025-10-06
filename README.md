@@ -14,8 +14,6 @@ O objetivo é analisar a base de dados real para identificar e compreender quais
 
 - Graduação: Qual graduação está associada aos maiores salários?
 
-- Área de formação (Tipo_Graduação) : O tipo de graduação (Sci&Tech, Commerce, Arts etc.) influencia nas oportunidades e salários?
-
 - Notas escolares vs. empregabilidade: O desempenho escolar influencia diretamente na empregabilidade?
 
 - Fatores determinantes:  Quais fatores realmente têm mais peso na empregabilidade: notas, graduação, experiência ou gênero?
@@ -59,7 +57,7 @@ A mesma se encontra na Plataforma da Kaggle. A seguir link da Plataforma. [Plata
 1.   Experiência prévia: pessoas com experiência conseguem emprego mais rápido?
 Consulta Aqui. [Consulta Aqui](https://console.cloud.google.com/bigquery?inv=1&invt=Ab4KKQ&project=t1engenhariadados&ws=!1m12!1m3!8m2!1s1026184274595!2sd5a463e1c7024e26811f77142b3efad2!1m3!8m2!1s1026184274595!2s7db49a29917744b09d77d840bdce6d77!1m3!8m2!1s1026184274595!2s94a9ac2928be440c90e5584754b8e4a8)
 
-2.   Gênero: Existem diferenças salariais entre gêneros dentro de uma mesma área de atuação? [Consulta Aqui.](https://console.cloud.google.com/bigquery?ws=!1m5!1m4!4m3!1st1engenhariadados!2sGrupo_3_9_ProjetoFinal!3sPergunta2)
+2.   Gênero: Existem diferenças salariais entre gêneros dentro de uma mesma área de atuação? [Consulta Aqui.](https://console.cloud.google.com/bigquery?ws=!1m5!1m4!4m3!1st1engenhariadados!2sGrupo_3_9_ProjetoFinal!3sresumo_genero_salario)
 
 
 3. Graduação: Qual graduação está associada aos maiores salários? [Consulta Aqui.](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1st1engenhariadados!2sus-central1!3se43b0604-4d7e-41a0-8cef-ac2217cec3dc!2e1)
